@@ -45,7 +45,11 @@ export const urls = [
     name: 'librairies-nouvelleaquitaine.com',
     url: 'https://www.librairies-nouvelleaquitaine.com/livre/##ISBN##/',
   },
-
+  {
+    lang: ['fr-fr'],
+    name: 'librel.be',
+    url: 'https://www.librel.be/livre/##ISBN##/',
+  },
   // EN - UK //////////////////
   {
     lang: ['en-gb'],
